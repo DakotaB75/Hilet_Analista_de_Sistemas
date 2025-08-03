@@ -6,5 +6,5 @@ Este repositorio contiene apuntes personales y módulos editados del primer año
 
 📓 Fines: Educativos, de repaso, orientación para estudiantes actuales o futuros.
 
-⚠️ Contenido editado para proteger nombres, marcas de agua o información institucional.
+⚠️Contenido editado para proteger nombres, marcas de agua o información institucional.
 
